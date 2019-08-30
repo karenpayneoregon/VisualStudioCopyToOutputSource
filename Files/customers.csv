@@ -1,0 +1,99 @@
+﻿CustomerIdentifier,CompanyName,ContactIdentifier,ContactTypeIdentifier,ContactTitle,FirstName,LastName,Street,City,PostalCode,CountryIdentfier,CountryName,Phone,ModifiedDate,InUse
+2,Ana Trujillo Emparedados y helados,2,7,Owner,Ana,Trujillo,Avda. de la Constitución 2222,México D.F.,05021,12,Mexico,(5) 555-4729,2018-06-10 12:47:07.517,1
+3,Antonio Moreno Taquería,3,7,Owner,Antonio,Moreno,Mataderos  2312,México D.F.,05023,12,Mexico,(5) 555-3932,2018-06-10 12:40:45.100,1
+4,Around the Horn,4,12,Sales Representative,Thomas,Hardy,120 Hanover Sq.,London,WA1 1DP,19,UK,(171) 555-7788,2018-06-10 11:45:49.707,1
+5,Berglunds snabbköp,5,6,Order Administrator,Christina,Berglund,Berguvsvägen  8,Luleå,S-958 22,17,Sweden,0921-12 34 65,2018-06-10 15:26:54.627,0
+6,Blauer See Delikatessen,6,12,Sales Representative,Hanna,Moos,Forsterstr. 57,Mannheim,68306,9,Germany,0621-08460,2018-06-10 15:26:57.420,0
+7,Blondesddsl père et fils,7,5,Marketing Manager,Frédérique,Citeaux,"24, place Kléber",Strasbourg,67000,8,France,88.60.15.31,2018-06-10 15:26:59.590,0
+8,Bólido Comidas preparadas,8,7,Owner,Martín,Sommer,"C/ Araquil, 67",Madrid,28023,16,Spain,(91) 555 22 82,2018-06-10 15:27:02.153,0
+11,Cactus Comidas para llevar,11,9,Sales Agent,Patricio,Simpson,Cerrito 333,Buenos Aires,1010,1,Argentina,(1) 135-5555,2018-06-10 15:26:41.803,0
+12,Centro comercial Moctezuma,12,5,Marketing Manager,Francisco,Chang,Sierras de Granada 9993,México D.F.,05022,12,Mexico,(5) 555-3392,2018-07-04 13:00:00.000,1
+14,Consolidated Holdings,14,12,Sales Representative,Elizabeth,Brown,Berkeley Gardens 12  Brewery,London,WX1 6LT,19,UK,(171) 555-2282,2018-06-10 15:26:50.723,0
+15,Drachenblut Delikatessen,15,6,Order Administrator,Sven,Ottlieb,Walserweg 21,Aachen,52066,9,Germany,0241-039123,2018-07-04 13:00:00.000,1
+16,Du monde entier,16,7,Owner,Janine,Labrune,"67, rue des Cinquante Otages",Nantes,44000,8,France,40.67.88.88,2018-07-04 13:00:00.000,1
+17,Eastern Connection,17,9,Sales Agent,Ann,Devon,35 King George,London,WX3 6FW,19,UK,(171) 555-0297,2018-08-04 16:00:00.000,1
+18,Ernst Handel,18,11,Sale's Manager,Roland,Mendel,Kirchgasse 6,Graz,8010,2,Austria,7675-3425,2018-08-04 16:00:00.000,1
+19,FISSA Fabrica Inter. Salchichas S.A.,19,1,Accounting Manager,Diego,Roel,"C/ Moralzarzal, 86",Madrid,28034,16,Spain,(91) 555 94 44,2018-08-04 16:00:00.000,1
+20,Folies gourmandes,20,2,Assistant Sales Agent,Martine,Rancé,"184, chaussée de Tournai",Lille,59000,8,France,20.16.10.16,2018-08-04 16:00:00.000,1
+21,Folk och fä HB,21,7,Owner,Maria,Larsson,Åkergatan 24,Bräcke,S-844 67,17,Sweden,0695-34 67 21,2018-08-04 16:00:00.000,1
+22,Frankenversand,22,5,Marketing Manager,Peter,Franken,Berliner Platz 43,München,80805,9,Germany,089-0877310,2018-08-04 16:00:00.000,1
+23,France restauration,23,5,Marketing Manager,Carine,Schmitt,"54, rue Royale",Nantes,44000,8,France,40.32.21.21,2018-08-04 16:00:00.000,1
+24,Franchi S.p.A.,24,12,Sales Representative,Paolo,Accorti,Via Monte Bianco 34,Torino,10100,11,Italy,011-4988260,2018-08-04 16:00:00.000,1
+25,Furia Bacalhau e Frutos do Mar,25,11,Sale's Manager,Lino,Rodriguez,Jardim das rosas n. 32,Lisboa,1675,15,Portugal,(1) 354-2534,2018-08-04 16:00:00.000,1
+26,Galería del gastrónomo,26,5,Marketing Manager,Eduardo,Saavedra,"Rambla de Cataluña, 23",Barcelona,08022,16,Spain,(93) 203 4560,2017-06-04 05:00:00.000,1
+27,Godos Cocina Típica,27,11,Sale's Manager,José,Pedro Freyre,"C/ Romero, 33",Sevilla,41101,16,Spain,(95) 555 82 82,2017-06-04 05:00:00.000,1
+28,Königlich Essen,28,10,Sales Associate,Philip,Cramer,Maubelstr. 90,Brandenburg,14776,9,Germany,0555-09876,2017-06-04 05:00:00.000,1
+29,La corne d'abondance,29,12,Sales Representative,Daniel,Tonini,"67, avenue de l'Europe",Versailles,78000,8,France,30.59.84.10,2017-06-04 05:00:00.000,1
+30,La maison d'Asie,30,11,Sale's Manager,Annette,Roulet,1 rue Alsace-Lorraine,Toulouse,31000,8,France,61.77.61.10,2017-06-04 05:00:00.000,1
+31,Lehmanns Marktstand,31,12,Sales Representative,Renate,Messner,Magazinweg 7,Frankfurt a.M.,60528,9,Germany,069-0245984,2017-06-04 05:00:00.000,1
+32,Magazzini Alimentari Riuniti,32,5,Marketing Manager,Giovanni,Rovelli,Via Ludovico il Moro 22,Bergamo,24100,11,Italy,035-640230,2017-06-04 05:00:00.000,1
+33,Maison Dewey,33,9,Sales Agent,Catherine,Dewey,Rue Joseph-Bens 532,Bruxelles,B-1180,3,Belgium,(02) 201 24 67,2017-06-04 05:00:00.000,1
+34,Morgenstern Gesundkost,34,4,Marketing Assistant,Alexander,Feuer,Heerstr. 22,Leipzig,04179,9,Germany,0342-023176,2018-06-10 12:47:07.517,1
+35,North/South,35,10,Sales Associate,Simon,Crowther,South House 300 Queensbridge,London,SW7 1RZ,19,UK,(171) 555-7733,2018-08-04 16:00:00.000,1
+36,Océano Atlántico Ltda.,36,9,Sales Agent,Yvonne,Moncada,Ing. Gustavo Moncada 8585 Piso 20-A,Buenos Aires,1010,1,Argentina,(1) 135-5333,2018-08-04 16:00:00.000,1
+37,Ottilies Käseladen,37,7,Owner,Henriette,Pfalzheim,Mehrheimerstr. 369,Köln,50739,9,Germany,0221-0644327,2018-08-04 16:00:00.000,1
+38,Paris spécialités,38,7,Owner,Marie,Bertrand,"265, boulevard Charonne",Paris,75012,8,France,(1) 42.34.22.66,2018-08-04 16:00:00.000,1
+39,Pericles Comidas clásicas,39,12,Sales Representative,Guillermo,Fernández,Calle Dr. Jorge Cash 321,México D.F.,05033,12,Mexico,(5) 552-3745,2018-08-04 16:00:00.000,1
+40,Piccolo und mehr,40,11,Sale's Manager,Georg,Pipps,Geislweg 14,Salzburg,5020,2,Austria,6562-9722,2018-08-04 16:00:00.000,1
+41,Princesa Isabel Vinhos,41,12,Sales Representative,Isabel,de Castro,Estrada da saúde n. 58,Lisboa,1756,15,Portugal,(1) 356-5634,2018-08-04 16:00:00.000,1
+42,QUICK Stop,42,1,Accounting Manager,Horst,Kloss,Taucherstraße 10,Cunewalde,01307,9,Germany,0372-035188,2018-06-10 12:47:07.517,1
+43,Rancho grande,43,12,Sales Representative,Sergio,Gutiérrez,Av. del Libertador 900,Buenos Aires,1010,1,Argentina,(1) 123-5555,2018-01-11 04:07:00.000,1
+44,Reggiani Caseifici,44,10,Sales Associate,Maurizio,Moroni,Strada Provinciale 124,Reggio Emilia,42100,11,Italy,0522-556721,2018-01-11 04:07:00.000,1
+45,Richter Supermarkt,45,11,Sale's Manager,Michael,Holz,Grenzacherweg 237,Genève,1203,18,Switzerland,0897-034214,2018-01-11 04:07:00.000,1
+46,Romero y tomillo,46,1,Accounting Manager,Alejandra,Camino,"Gran Vía, 1",Madrid,28001,16,Spain,(91) 745 6200,2018-01-11 04:07:00.000,1
+47,Santé Gourmet,47,7,Owner,Jonas,Bergulfsen,Erling Skakkes gate 78,Stavern,4110,13,Norway,07-98 92 35,2018-01-11 04:07:00.000,1
+48,Seven Seas Imports,48,11,Sale's Manager,Hari,Kumar,90 Wadhurst Rd.,London,OX15 4NB,19,UK,(171) 555-1717,2018-01-11 04:07:00.000,1
+49,Simons bistro,49,7,Owner,Jytte,Petersen,Vinbæltet 34,Kobenhavn,1734,6,Denmark,31 12 34 56,2018-01-11 04:07:00.000,1
+50,Spécialités du monde,50,5,Marketing Manager,Dominique,Perrier,"25, rue Lauriston",Paris,75016,8,France,(1) 47.55.60.10,2018-09-11 09:11:00.000,1
+51,Suprêmes délices,51,1,Accounting Manager,Pascale,Cartrain,"Boulevard Tirou, 255",Charleroi,B-6000,3,Belgium,(071) 23 67 22 20,2018-09-11 09:11:00.000,1
+52,Toms Spezialitäten,52,5,Marketing Manager,Karin,Josephs,Luisenstr. 48,Münster,44087,9,Germany,0251-031259,2018-09-11 09:11:00.000,1
+53,Tortuga Restaurante,53,7,Owner,Miguel Angel,Paolino,Avda. Azteca 123,México D.F.,05033,12,Mexico,(5) 555-2933,2018-09-11 09:11:00.000,1
+54,Vaffeljernet,54,11,Sale's Manager,Palle,Ibsen,Smagsloget 45,Århus,8200,6,Denmark,86 21 32 43,2018-09-11 09:11:00.000,1
+55,Victuailles en stock,55,9,Sales Agent,Mary,Saveley,"2, rue du Commerce",Lyon,69004,8,France,78.32.54.86,2018-09-11 09:11:00.000,1
+56,Vins et alcools Chevalier,56,1,Accounting Manager,Paul,Henriot,59 rue de l'Abbaye,Reims,51100,8,France,26.47.15.10,2018-09-11 09:11:00.000,1
+57,Die Wandernde Kuh,57,12,Sales Representative,Rita,Müller,Adenauerallee 900,Stuttgart,70563,9,Germany,0711-020361,2017-02-11 06:55:00.000,1
+58,Wartian Herkku,58,1,Accounting Manager,Pirkko,Koskitalo,Torikatu 38,Oulu,90110,7,Finland,981-443655,2017-02-11 06:55:00.000,1
+60,Wolski  Zajazd,60,7,Owner,Zbyszek,Piestrzeniewicz,ul. Filtrowa 68,Warszawa,01-012,14,Poland,(26) 642-7012,2017-02-11 06:55:00.000,1
+61,Old World Delicatessen,61,12,Sales Representative,Rene,Phillips,2743 Bering St.,Anchorage,99508,20,USA,(907) 555-7584,2017-02-11 06:55:00.000,1
+62,Bottom-Dollar Markets,62,1,Accounting Manager,Elizabeth,Lincoln,23 Tsawassen Blvd.,Tsawassen,T2F 8M4,5,Canada,(604) 555-4729,2016-02-03 09:35:00.000,1
+63,Laughing Bacchus Wine Cellars,63,4,Marketing Assistant,Yoshi,Tannamuri,1900 Oak St.,Vancouver,V3F 2K1,5,Canada,(604) 555-3392,2016-02-03 09:35:00.000,1
+64,Let's Stop N Shop,64,7,Owner,Jaime,Yorres,87 Polk St. Suite 5,San Francisco,94117,20,USA,(415) 555-5938,2016-02-03 09:35:00.000,1
+65,Hungry Owl All-Night Grocers,65,10,Sales Associate,Patricia,McKenna,8 Johnstown Road,Cork,NULL,10,Ireland,2967 542,2016-02-03 09:35:00.000,1
+66,GROSELLA-Restaurante,66,7,Owner,Manuel,Pereira,5ª Ave. Los Palos Grandes,Caracas,1081,21,Venezuela,(2) 283-2951,2016-02-03 09:35:00.000,1
+67,Save-a-lot Markets,67,12,Sales Representative,Jose,Pavarotti,187 Suffolk Ln.,Boise,83720,20,USA,(208) 555-8097,2016-02-03 09:35:00.000,1
+68,Island Trading,68,5,Marketing Manager,Helen,Bennett,Garden House Crowther Way,Cowes,PO31 7PJ,19,UK,(198) 555-8888,2016-02-03 09:35:00.000,1
+69,LILA-Supermercado,69,1,Accounting Manager,Carlos,González,Carrera 52 con Ave. Bolívar #65-98 Llano Largo,Barquisimeto,3508,21,Venezuela,(9) 331-6954,2016-02-03 09:35:00.000,1
+70,The Cracker Box,70,4,Marketing Assistant,Liu,Wong,55 Grizzly Peak Rd.,Butte,59801,20,USA,(406) 555-5834,2016-02-03 09:35:00.000,1
+71,Rattlesnake Canyon Grocery,71,3,Assistant Sales Representative,Paula,Wilson,2817 Milton Dr.,Albuquerque,87110,20,USA,(505) 555-5939,2016-02-03 09:35:00.000,1
+72,LINO-Delicateses,72,7,Owner,Felipe,Izquierdo,Ave. 5 de Mayo Porlamar,I. de Margarita,4980,21,Venezuela,(8) 34-56-12,2018-07-03 04:22:00.000,1
+73,Great Lakes Food Market,73,5,Marketing Manager,Howard,Snyder,2732 Baker Blvd.,Eugene,97403,20,USA,(503) 555-7555,2018-07-03 04:22:00.000,1
+74,Hungry Coyote Import Store,74,12,Sales Representative,Yoshi,Latimer,City Center Plaza 516 Main St.,Elgin,97827,20,USA,(503) 555-6874,2018-07-03 04:22:00.000,1
+75,Lonesome Pine Restaurant,75,11,Sale's Manager,Fran,Wilson,89 Chiaroscuro Rd.,Portland,97219,20,USA,(503) 555-9573,2018-07-03 04:22:00.000,1
+76,The Big Cheese,76,5,Marketing Manager,Liz,Nixon,89 Jefferson Way Suite 2,Portland,97201,20,USA,(503) 555-3612,2018-07-03 04:22:00.000,1
+77,Mère Paillarde,77,4,Marketing Assistant,Jean,Fresnière,43 rue St. Laurent,Montréal,H1J 1C3,5,Canada,(514) 555-8054,2018-07-03 04:22:00.000,1
+78,Hanari Carnes,78,1,Accounting Manager,Mario,Pontes,"Rua do Paço, 67",Rio de Janeiro,05454-876,4,Brazil,(21) 555-0091,2018-07-03 04:22:00.000,1
+79,Que Delícia,79,1,Accounting Manager,Bernardo,Batista,"Rua da Panificadora, 12",Rio de Janeiro,02389-673,4,Brazil,(21) 555-4252,2018-07-03 04:22:00.000,1
+80,Ricardo Adocicados,80,2,Assistant Sales Agent,Janete,Limeira,"Av. Copacabana, 267",Rio de Janeiro,02389-890,4,Brazil,(21) 555-3412,2018-07-03 04:22:00.000,1
+81,Comércio Mineiro,81,10,Sales Associate,Pedro,Afonso,"Av. dos Lusíadas, 23",Sao Paulo,05432-043,4,Brazil,(11) 555-7647,2018-02-03 01:00:00.000,1
+82,Familia Arquibaldo,82,4,Marketing Assistant,Aria,Cruz,"Rua Orós, 92",Sao Paulo,05442-030,4,Brazil,(11) 555-9857,2018-02-03 01:00:00.000,1
+83,Gourmet Lanchonetes,83,10,Sales Associate,André,Fonseca,"Av. Brasil, 442",Campinas,04876-786,4,Brazil,(11) 555-9482,2018-02-03 01:00:00.000,1
+84,Queen Cozinha,84,4,Marketing Assistant,Lúcia,Carvalho,"Alameda dos Canàrios, 891",Sao Paulo,05487-020,4,Brazil,(11) 555-1189,2018-02-03 01:00:00.000,1
+85,Tradição Hipermercados,85,12,Sales Representative,Anabela,Domingues,"Av. Inês de Castro, 414",Sao Paulo,05634-030,4,Brazil,(11) 555-2167,2018-02-03 01:00:00.000,1
+86,Wellington Importadora,86,11,Sale's Manager,Paula,Parente,"Rua do Mercado, 12",Resende,08737-363,4,Brazil,(14) 555-8122,2018-02-03 01:00:00.000,1
+87,HILARION-Abastos,87,12,Sales Representative,Carlos,Hernández,Carrera 22 con Ave. Carlos Soublette #8-35,San Cristóbal,5022,21,Venezuela,(5) 555-1340,2018-06-10 12:47:07.517,1
+88,Lazy K Kountry Store,88,5,Marketing Manager,John,Steel,12 Orchestra Terrace,Walla Walla,99362,20,USA,(509) 555-7969,2018-02-03 01:00:00.000,1
+89,Trail's Head Gourmet Provisioners,89,10,Sales Associate,Helvetius,Nagy,722 DaVinci Blvd.,Kirkland,98034,20,USA,(206) 555-8257,2018-02-03 01:00:00.000,1
+90,White Clover Markets,90,7,Owner,Karl,Jablonski,305 - 14th Ave. S. Suite 3B,Seattle,98128,20,USA,(206) 555-4112,2018-06-10 12:47:07.517,1
+91,Split Rail Beer & Ale,91,11,Sale's Manager,Art,Braunschweiger,P.O. Box 555,Lander,82520,20,USA,(307) 555-4680,2018-02-03 01:00:00.000,1
+92,"Trupebistor Direct ",92,10,Sales Associate,Marc,Arias,2918 Wyndmoor Ave,Cleveland,92584,18,Switzerland,569960-0988,2018-02-09 17:01:39.717,1
+93,"Trudimackentor WorldWide ",93,7,Owner,Dylan,Preston,999 Satan Ave,Rochester,67295,12,Mexico,5504500025,2018-02-17 13:16:15.967,1
+94,"Cipvenimin International ",94,7,Owner,Maureen,Cherry,70 Blue water Drive,Tampa,84373,12,Mexico,782-3374387,2018-02-10 04:21:27.747,1
+95,"Rezapan  ",95,6,Order Administrator,Kathryn,Atkins,77 Wind Blown Street,Long Beach,17913,10,Ireland,270-8090642,2018-02-07 13:28:29.090,1
+96,"Rebanazz International ",96,4,Marketing Assistant,Bobbie,Everett,400 Banner way,Minneapolis,22879,6,Denmark,8342771728,2018-02-08 10:19:43.143,1
+97,Tuprobamicator International Inc,97,6,Order Administrator,Shawn,Cross,14 Snow Lane,Colorado,20141,10,Ireland,172-309-7838,2018-02-05 11:43:40.127,1
+98,"Grotanentor Holdings ",98,6,Order Administrator,Meghan,Bartlett,9544 Center Street NE,St. Paul,04648,10,Ireland,795080-4930,2018-02-10 11:06:18.553,1
+99,"Monquestilin Holdings ",99,1,Accounting Manager,Kelley,Mays,9672 High St,Indianapolis,57456,1,Argentina,070-3408303,2018-02-06 21:35:17.100,1
+100,"Trupickefazz Direct ",100,12,Sales Representative,Randall,Yu,1 Glenside ave,St. Petersburg,00955,21,Venezuela,349-1262614,2018-02-07 03:40:55.367,1
+101,"Rapnipedower  ",101,4,Marketing Assistant,Marvin,Kirk,678 Cherry Lane,Columbus,77916,7,Finland,368-9803967,2018-02-10 20:53:48.847,1
+102,Karen's Coffee shop,102,7,Owner,Karen,Payne,955 River Road,Salem,97303,20,USA,444-897-1287,2018-03-24 08:43:23.373,1
+103,Alfreds Futterkiste,103,7,Owner,Maria,Anders,Obere Str. 57,Berlin,12209,9,Germany,030-0074321,2018-03-24 09:09:49.850,1
